@@ -1,8 +1,8 @@
-# Gallery App
+# SnapFetch
 
 A modern, responsive image gallery built with **React**.
 
-🌐 **[Live Demo](https://gallery-app-two-iota.vercel.app/)**
+🌐 **[Live Demo](https://snap-fetch-sandy.vercel.app/)**
 
 The project focuses on creating a clean gallery experience while practicing React fundamentals such as component-based architecture, state management, API fetching, routing, reusable components, responsive UI design, and theme switching.
 
